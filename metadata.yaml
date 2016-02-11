@@ -1,0 +1,34 @@
+_repo: Eno-Vanja-Kuvaus-maalaiselamasta-neljassa-naytoksessa_50214
+contributor:
+  translator:
+    agent_name: Tarkiainen, Viljo
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '45491'
+    url: http://www.gutenberg.org/2009/agents/45491
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2015-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50214'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Eno Vanja
+
+  Kuvaus maalaiselämästä neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/50214
